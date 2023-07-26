@@ -12,6 +12,7 @@
   - [Claptrap experience - Unity Vuforia](https://www.youtube.com/watch?v=34TSQAoBQeU)
 - <b>Web Development (JavaScript, HTML, CSS)</b>
   - [GoPance (React)](https://github.com/Johannes910/gopance)
+  - [3D web portfolio](https://xlgabriel.github.io/portfolio/)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
