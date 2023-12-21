@@ -1,5 +1,5 @@
 <h1>Hi, I'm Gabriel! <br/><a href="https://github.com/xlgabriel">Programmer</a>, <a href="https://www.linkedin.com/in/xlgabriel/">A.I. Enthusiast</a>, <a href="https://www.canva.com/design/DAFgsJ68Nvo/TIcpKdXvupVRPL9js1W2Ag/view?utm_content=DAFgsJ68Nvo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Dreamer</a></h1>
-<h3>I'm currently working on:<br/><br/>
+<h2>🔭 I'm currently working on:</h2>
 - Creating a new SaaS company to implement technology in the car rental process (applicable to other markets).<br/>
 - React, WebRTC, socket.io agent-to-client web application with Firebase and Google Cloud Platform for car rental companies.<br/>
 - React and Nodemailer server, mobile-crafted web application for car walk arounds when picking up and returning the car.</h3>
@@ -19,25 +19,20 @@
   - [3D web portfolio](https://xlgabriel.github.io/portfolio/)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gabriel Jeannot | YouTube" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" />][youtube]
+[<img align="left" alt="Gabriel Jeannot | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
+[<img align="left" alt="Gabriel Jeannot | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" />][instagram]
 
 [youtube]: https://www.youtube.com/@xlgabriel
 [instagram]: https://www.instagram.com/jeannot.dev/?theme=dark
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
