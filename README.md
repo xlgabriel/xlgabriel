@@ -1,14 +1,14 @@
 <h1>Hi, I'm Gabriel! <br/><a href="https://github.com/xlgabriel">Programmer</a>, <a href="https://www.linkedin.com/in/xlgabriel/">A.I. Enthusiast</a>, <a href="https://www.canva.com/design/DAFgsJ68Nvo/TIcpKdXvupVRPL9js1W2Ag/view?utm_content=DAFgsJ68Nvo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Dreamer</a></h1>
 <h2>🔭 I'm currently working on:</h2>
-- Creating a new SaaS company to implement technology in the car rental process (applicable to other markets).<br/>
-- React, WebRTC, socket.io agent-to-client web application with Firebase and Google Cloud Platform for car rental companies.<br/>
+- Explorando: a web app to make car, hotel and package reservations in Florida for a brand new company from scratch!<br/>
+- VideFace: SaaS company designed to enhance remote sales and customer service. Usign FERN stack and learning a lot!<br/>
 - React and Nodemailer server, mobile-crafted web application for car walk arounds when picking up and returning the car.</h3>
 
 <h2>👨‍💻 Multimedia engineer | A.I. Specialist | Check out my projects:</h2>
 
 - <b>Scrum Master</b>
   - [AcademIA](https://github.com/xlgabriel/AcademIA/tree/main)
-- <b>Game Development + A/R</b>
+- <b>Game Development + AR/VR</b>
   - [JanKenPon - UE4](https://github.com/xlgabriel/Jankenpon)
   - [No Tomorrows - UE4](https://github.com/xlgabriel/NoTomorrows)
   - [PokeGotchi - Unity Vuforia](https://github.com/xlgabriel/PokeGotchi)
