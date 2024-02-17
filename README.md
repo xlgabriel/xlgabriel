@@ -2,7 +2,9 @@
 <h2>🔭 I'm currently working on:</h2>
 - Explorando: a web app to make car, hotel and package reservations in Florida for a brand new company from scratch!<br/>
 - VideFace: SaaS company designed to enhance remote sales and customer service. Usign FERN stack and learning a lot!<br/>
-- React and Nodemailer server, mobile-crafted web application for car walk arounds when picking up and returning the car.</h3>
+- React and Nodemailer server, mobile-crafted web application for car walk arounds when picking up and returning the car.<br/>
+- React and Firebase, web app to see and update the cars conditions in real time, focused on car rental companies.
+</h3>
 
 <h2>👨‍💻 Multimedia engineer | A.I. Specialist | Check out my projects:</h2>
 
