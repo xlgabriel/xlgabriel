@@ -26,7 +26,6 @@
 [<img align="left" alt="Gabriel Jeannot | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" />][instagram]
 
 [youtube]: https://www.youtube.com/@xlgabriel
-[instagram]: https://www.instagram.com/jeannot.dev/?theme=dark
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
