@@ -2,8 +2,7 @@
 <h2>🔭 I'm currently working on:</h2>
 - Explorando: a web app to make car, hotel and package reservations in Florida for a brand new company from scratch!<br/>
 - VideFace: SaaS company designed to enhance remote sales and customer service. Usign FERN stack and learning a lot!<br/>
-- VideFace Cars: mobile-crafted web application for car inspection and walk arounds when picking up and returning the car.<br/>
-- React and Firebase, web app to see and update the cars conditions in real time, focused on car rental companies.
+- Aberamento: Company to offer my services and my team's services for anyone around the world.
 </h3>
 
 <h2>👨‍💻 Multimedia engineer | A.I. Specialist | Check out my projects:</h2>
@@ -23,7 +22,6 @@
 
 [<img align="left" alt="Gabriel Jeannot | YouTube" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" />][youtube]
 [<img align="left" alt="Gabriel Jeannot | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
-[<img align="left" alt="Gabriel Jeannot | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" />][instagram]
 
 [youtube]: https://www.youtube.com/@xlgabriel
 [linkedin]: https://linkedin.com/in/joshmadakor
