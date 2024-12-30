@@ -24,7 +24,7 @@
 [<img align="left" alt="Gabriel Jeannot | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
 
 [youtube]: https://www.youtube.com/@xlgabriel
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/xlgabriel
 
 <!--
 - 🔭 I’m currently working on ...
